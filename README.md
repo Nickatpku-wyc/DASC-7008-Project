@@ -16,8 +16,8 @@
 
 #### Program flow
 
-![project_flow](C:\Users\Nicka\Desktop\Programming for data science\Group Project\project_flow.png)
 
+<img width="914" alt="project_flow" src="https://user-images.githubusercontent.com/60178386/144702951-7572e2f7-8025-4514-942a-0d46d5602394.png">
 
 
 #### Data Crawling
