@@ -1,8 +1,5 @@
 # DASC-7008-Project
 
-[TOC]
-
-### README
 
 #### Program Overview
 
