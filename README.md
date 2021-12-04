@@ -148,10 +148,6 @@
   * data, df: the dataframe we used to store the <word, tf-idf value> pairs;
   * df_new: the sorted dataframe by tf-idf value;
 
-<img src="C:\Users\Nicka\AppData\Roaming\Typora\typora-user-images\image-20211204161428267.png" alt="image-20211204161428267" style="zoom:50%;" />
-
-* The TF-IDF value we got after words segmentation and 
-
 
 
 ##### Sentiment Analysis
